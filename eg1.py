@@ -34,3 +34,6 @@ if __name__=='__main__':
     
     #both thread is completely excuted
     print('all done!')
+
+    print(dir(threading.join)
+    print('短视频功能上线‘）
