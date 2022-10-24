@@ -36,4 +36,5 @@ if __name__=='__main__':
     print('all done!')
     print("duanshipin")
     print("yuefan")
+    print('xiugai 50%')
     
