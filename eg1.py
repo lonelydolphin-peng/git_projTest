@@ -35,5 +35,5 @@ if __name__=='__main__':
     #both thread is completely excuted
     print('all done!')
     print("duanshipin")
-    print("yuefan")
+    print("yuefan(xiufu_bug)")
     
